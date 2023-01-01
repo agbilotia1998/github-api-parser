@@ -1,0 +1,25 @@
+{
+  "name": "github-api-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agbilotia1998/github-api-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agbilotia1998/github-api-parser/issues"
+  },
+  "homepage": "https://github.com/agbilotia1998/github-api-parser#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "csvtojson": "^2.0.10",
+    "json2csv": "^5.0.7"
+  }
+}
